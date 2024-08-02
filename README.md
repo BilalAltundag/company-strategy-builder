@@ -2,7 +2,7 @@
 
 Welcome to the Multi-Agent AI System! This Python-based application leverages the power of AI to create a comprehensive strategy and development plan for a company’s new product. Below is a detailed guide on what this system does, how to provide the necessary inputs, and how to run the code.
 
-![Untitled](https://github.com/user-attachments/assets/82592bdb-57ba-4cd6-ad2e-d3dbb647d8a9)
+![Untitled (1)](https://github.com/user-attachments/assets/f1c8e1ea-3b19-4abe-91bd-0d1673b37dbe)
 
 ## Overview
 
