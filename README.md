@@ -76,6 +76,7 @@ inputs = {
     "marketing_channels": "Social media, email marketing, and industry events.",
     "sales_targets": "Achieve $10M in revenue within the first year of launch."
 }
+```
 
 ## Running the Simulation
 
